@@ -1,0 +1,1 @@
+../../../.git/annex/objects/0W/vw/MD5E-s892--f5c1169375e12bd592ae17b57bbfef09.cls/MD5E-s892--f5c1169375e12bd592ae17b57bbfef09.cls
