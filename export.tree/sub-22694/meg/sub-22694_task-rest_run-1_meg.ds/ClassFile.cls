@@ -1,0 +1,1 @@
+../../../.git/annex/objects/qX/gk/MD5E-s783--9534a327edf1788ac8320ce4f1223e3f.cls/MD5E-s783--9534a327edf1788ac8320ce4f1223e3f.cls

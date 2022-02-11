@@ -1,0 +1,59 @@
+{
+	"AcquisitionDateTime": "2020-01-21T17:46:42",
+	"AcquisitionMatrixPE": 256,
+	"AcquisitionNumber": 1,
+	"AnatomicalLandmarkCoordinateSystem": "LPS",
+	"AnatomicalLandmarkCoordinateSystemDescription": "Anatomical Landmarks registered with AFNI software Edit Tagset plugin. Defaults to LPS coordinate system.",
+	"AnatomicalLandmarkCoordinateUnits": "mm",
+	"AnatomicalLandmarkCoordinates": [
+		[
+			"NAS:",
+			[-3.688,-124.7,21.39]
+		],
+		[
+			"LPA:",
+			[68.31,-54.67,-35.61]
+		],
+		[
+			"RPA:",
+			[-66.69,-47.67,-45.61]
+		]
+	],
+	"BodyPartExamined": "BRAIN",
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20180622 GCC4.8.5",
+	"DeviceSerialNumber": "000301496mr3T5mr",
+	"EchoTime": 0.00292,
+	"FlipAngle": 8,
+	"ImageOrientationPatientDICOM": [0,1,0,0,0,-1],
+	"ImageType": [
+		"ORIGINAL",
+		"PRIMARY",
+		"OTHER"
+	],
+	"InPlanePhaseEncodingDirectionDICOM": "ROW",
+	"InstitutionName": "NIH_FMRIF",
+	"InversionTime": 1.06,
+	"MRAcquisitionType": "3D",
+	"MagneticFieldStrength": 3,
+	"Manufacturer": "GE",
+	"ManufacturersModelName": "DISCOVERY_MR750",
+	"Modality": "MR",
+	"PatientPosition": "HFS",
+	"PercentPhaseFOV": 100,
+	"PixelBandwidth": 244.141,
+	"ProcedureStepDescription": "MRI_Brain",
+	"ProtocolName": "Anat_T1w_MP-RAGE_1mm_(ABCD)",
+	"ReconMatrixPE": 256,
+	"RepetitionTime": 0.006952,
+	"SAR": 0.0972691,
+	"ScanOptions": "EDR_GEMS_PROMO_GEMS_FILTERED_GEMS_ACC_GEMS_IR_GEMS",
+	"ScanningSequence": "RM",
+	"SequenceVariant": "NONE",
+	"SeriesDescription": "Anat_T1w_MP-RAGE_1mm_(ABCD)",
+	"SeriesNumber": 6,
+	"SliceThickness": 1,
+	"SoftwareVersions": "27_LX_MR_Software_release:DV26.0_R03_1831.b",
+	"SpacingBetweenSlices": 1,
+	"StationName": "FMRI3ta"
+}
