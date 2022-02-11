@@ -1,0 +1,7 @@
+1.0.3 2022-02-11
+  - Added missing landmark anatomical information for sub-24295 json file. 
+  - Updated citation and link to published paper
+1.0.2 2021-03-18
+  - Added sub-22658 and sub-24247
+1.0.1 2021-03-16
+  - fixed duplicate
