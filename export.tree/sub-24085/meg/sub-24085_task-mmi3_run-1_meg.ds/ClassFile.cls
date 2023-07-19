@@ -1,0 +1,1 @@
+../../../.git/annex/objects/p3/j7/MD5E-s324--13727d53141703a3119ceca02b56ccab.cls/MD5E-s324--13727d53141703a3119ceca02b56ccab.cls
